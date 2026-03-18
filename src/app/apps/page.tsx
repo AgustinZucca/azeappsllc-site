@@ -37,7 +37,7 @@ export default function Apps() {
             >
               <div className="w-24 h-24 bg-cream rounded-2xl flex items-center justify-center flex-shrink-0">
                 <Image
-                  src="/logo.jpeg"
+                  src="/tranqui-icon.png"
                   alt={app.name}
                   width={80}
                   height={80}
